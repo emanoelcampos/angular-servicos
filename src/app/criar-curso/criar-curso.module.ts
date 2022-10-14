@@ -13,7 +13,7 @@ import { CriarCursoComponent } from './criar-curso.component';
     CommonModule,
     AppRoutingModule
   ],
-  exports: [CriarCursoComponent],
-  providers: [CursosService],
+  exports: [CriarCursoComponent]
+  //providers: [CursosService],
 })
 export class CriarCursoModule { }
