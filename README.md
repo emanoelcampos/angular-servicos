@@ -1,6 +1,6 @@
 # Angular - Serviços
 
-##Projeto com aulas sobre serviços do curso de Angular da Loiane Groner
+## Projeto com aulas sobre serviços do curso de Angular da Loiane Groner
 
 O repositório possui estudo dos temas:
 
